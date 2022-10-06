@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+grmEWlQIfcLDQoTBHOo06iyzUxMV6z+he2EO/BzhjQgZ3wQHwZVy0FWWvU1HsrNIuo/GuQxyJDdIsTWjUvZA==",
+  "dgSpecHash": "4hxHRvA6ih+9hp0w4e4q90ZTah5SsI+YvuFEk+zkZSFqqh95OJsT+S5w6zwFWzOTgwiOKBwK0UbGIK4jYqWvHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
+  "projectFilePath": "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

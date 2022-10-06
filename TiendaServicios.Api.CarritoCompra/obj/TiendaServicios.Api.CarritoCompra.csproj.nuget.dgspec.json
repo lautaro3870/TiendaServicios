@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {}
+    "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {
+    "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+        "projectUniqueName": "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
         "projectName": "TiendaServicios.Api.CarritoCompra",
-        "projectPath": "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+        "projectPath": "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
         "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.CarritoCompra\\obj\\",
+        "outputPath": "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

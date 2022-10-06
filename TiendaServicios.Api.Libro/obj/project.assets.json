@@ -5161,11 +5161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+      "projectUniqueName": "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
       "projectName": "TiendaServicios.Api.Libro",
-      "projectPath": "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+      "projectPath": "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
       "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win\\Documents\\Udemy\\Microservicios con ASP.NET Core,Docker y RabbitMQ\\TiendaServicios2\\TiendaServicios.Api.Libro\\obj\\",
+      "outputPath": "C:\\Proyectos GitHub\\TiendaServicios\\TiendaServicios\\TiendaServicios.Api.Libro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
